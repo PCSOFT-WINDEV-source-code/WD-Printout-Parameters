@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Printout Parameters
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Printout Parameters
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Printout Parameters
+    internal_properties : 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
+    configuration_id : 12026874736048377286
+    type : 1
+    generation_directory : .\Exe\WD Print Parameters
+    generation_name : WD Printout Parameters.exe
+    version :
+     major_version : 21
+     generation_version : 3
+     internal_generation_version : 4
+    icon_filename : .\SXP13131.ico
+    language : 2
+    telemetry :
+     status : disabled
+  -
+    name : WD Print Parameters - Component
+    internal_properties : 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
+    configuration_id : 10924950716424230966
+    type : 4
+    generation_directory : .\Exe\WD Print Parameters - Component
+    version : {}
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4acda5e80017d816
+  elements :
+   -
+     name : RPT_Customer
+     identifier : 0x46f154b300a96f21
+     internal_properties : CAAAAAgAAABq4FK2dTJ6pazffjHlsY629PXza1DTCndKRB1Y009Nm1WNsM/p3yTMDTWvCYlHM6Vv9w==
+     physical_name : .\RPT_Customer.wde
+     type : 3
+   -
+     name : WIN_Main
+     identifier : 0x4219b1f20000d1e6
+     internal_properties : CAAAAAgAAAC3k5+DIB0VFiF6OHRiNupDDVwETGdCTe6C/kep/Oa0bJScc89L/UIpfrginmaaZlqiog==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+     configurations :
+      -
+        configuration_id : 10924950716424230966
+        excluded : true
+   -
+     name : TEST_Main
+     identifier : 0x457ec9180321a414
+     internal_properties : CAAAAAgAAAArJYGNTnsG/mzUI07CQI01mU3w4zO5YkG29IVrEzJ5sVEEZuk1gRon7+ERrpFp1j0u
+     physical_name : .\TEST_Main.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\description.rtf
+     configurations :
+      -
+        configuration_id : 10924950716424230966
+        excluded : true
+   -
+     physical_name : .\Description.gif
+     configurations :
+      -
+        configuration_id : 10924950716424230966
+        excluded : true
+  analysis : .\WD Printout Parameters.ana\WD Printout Parameters.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\ConfigurePrint\ConfigurePrint.wci
+ report_and_queries_enabled : false
+ data_directory : <ExeDirOrDataDirCommon>
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAACcSt+sny51zPXpFjBHanKeEJ+K5iKsCR5AUOE5+a4edQdlBx6AMNPfpoLNDXVIRKNEdKNozfsxDzKwP0t+DrwJGA==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Printout Parameters
+     identifier : 0x4acda5e90020d9fa
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : WD Print Parameters - Component
+     identifier : 0x457ec98e032571a0
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
